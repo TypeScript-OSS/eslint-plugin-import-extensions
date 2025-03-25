@@ -1,9 +1,0 @@
-{
-    "extends": ["plugin:import-extensions/recommended"],
-    "plugins": ["import-extensions"],
-    "parserOptions": {
-        "sourceType": "module",
-        "ecmaVersion": 2020
-    },
-    "ignorePatterns": ["/index.js"]
-}
