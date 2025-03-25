@@ -1,7 +1,10 @@
 {
     "name": "eslint-plugin-import-extensions",
     "version": "0.1.4",
-    "repository": "https://github.com/TypeScript-OSS/eslint-plugin-import-extensions",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TypeScript-OSS/eslint-plugin-import-extensions.git"
+    },
     "license": "Apache-2.0",
     "type": "commonjs",
     "engines": {
