@@ -16,10 +16,10 @@ const makeReadableOptions = (options) => {
 module.exports = {
     configs: {
         recommended: {
-            plugins: ['require-extensions'],
+            plugins: ['import-extensions'],
             rules: {
-                'require-extensions/require-extensions': 'error',
-                'require-extensions/require-index': 'error',
+                'import-extensions/require-extensions': 'error',
+                'import-extensions/require-index': 'error',
             },
         },
     },

@@ -1,8 +1,7 @@
 {
-    "name": "eslint-plugin-require-extensions",
-    "version": "0.1.3",
-    "author": "Solana Maintainers <maintainers@solana.foundation>",
-    "repository": "https://github.com/solana-labs/eslint-plugin-require-extensions",
+    "name": "eslint-plugin-import-extensions",
+    "version": "0.1.4",
+    "repository": "https://github.com/TypeScript-OSS/eslint-plugin-import-extensions",
     "license": "Apache-2.0",
     "type": "commonjs",
     "engines": {
@@ -25,7 +24,7 @@
         "eslint": "*"
     },
     "devDependencies": {
-        "eslint": "^8.23.0",
-        "prettier": "^2.8.6"
+        "eslint": "^9.23.0",
+        "prettier": "^3.5.3"
     }
 }
